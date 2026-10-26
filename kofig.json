@@ -6,6 +6,7 @@
          "pin,senzora! : 4,
          "pin_ventilatora" : 17,
          "prag_temperature" : 25.0,
+	 "prag_minusa" : -10.0,
          "interval_s" : 60,
          "broj_ocitanja" : 10,
          "seed" : None}
